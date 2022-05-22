@@ -1,4 +1,4 @@
-run_all_tests:
+test:
 	go test ./...
 
 lint:
